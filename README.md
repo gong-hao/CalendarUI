@@ -31,7 +31,7 @@
 設計 A:
 ---
 
-![](https://raw.githubusercontent.com/neverlostmine/CalendarUI/master/pics/A.png)
+![](https://raw.githubusercontent.com/neverlostmine/CalendarUI/master/pics/AA.png)
 
 外部會議 無獨立的標籤 依照 "已參加會議 人頭圖示 之顏色(粉紫)" 顯示
 
@@ -52,7 +52,7 @@
 設計 B:
 ---
 
-![](https://raw.githubusercontent.com/neverlostmine/CalendarUI/master/pics/B.png)
+![](https://raw.githubusercontent.com/neverlostmine/CalendarUI/master/pics/BB.png)
 
 外部會議 具有獨立的標籤(青色)
 
